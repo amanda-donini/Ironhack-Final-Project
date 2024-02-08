@@ -3,3 +3,4 @@ embedding_matrix.npy
 faiss_index.pkl 
 predict__igredients_steps_df.csv 
 reciped_pp_spicy.csv
+RAW_recipes.csv
